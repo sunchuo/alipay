@@ -1,0 +1,11 @@
+{
+    "name": "alipay/alipay",
+    "description": "alipay sdk",
+    "type": "library",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Alipay\\": "src/"
+        }
+    }
+}
